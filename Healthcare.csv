@@ -1,0 +1,41 @@
+Patient_ID,Age,Gender,Symptoms,Symptom_Count,Disease
+1,29,Male,"fever, back pain, shortness of breath",3,Allergy
+2,76,Female,"insomnia, back pain, weight loss",3,Thyroid Disorder
+3,78,Male,"sore throat, vomiting, diarrhea",3,Influenza
+4,58,Other,"blurred vision, depression, weight loss, muscle pain",4,Stroke
+5,55,Female,"swelling, appetite loss, nausea",3,Heart Disease
+6,49,Male,"vomiting, swelling, dizziness, fatigue",4,Heart Disease
+7,69,Male,"anxiety, shortness of breath, appetite loss, cough, back pain",5,Food Poisoning
+8,25,Other,"sore throat, weight loss, chest pain, depression, anxiety, rash",6,Bronchitis
+9,11,Male,"insomnia, diarrhea, swelling",3,COVID-19
+10,47,Male,"joint pain, shortness of breath, runny nose",3,Dermatitis
+11,78,Other,"vomiting, insomnia, shortness of breath, blurred vision, depression",5,Food Poisoning
+12,72,Male,"back pain, diarrhea, nausea, runny nose, joint pain, shortness of breath, depression",7,Diabetes
+13,52,Female,"sweating, swelling, cough, diarrhea, appetite loss",5,Arthritis
+14,35,Male,"fever, back pain, shortness of breath",3,Allergy
+15,62,Female,"insomnia, back pain, weight loss",3,Thyroid Disorder
+16,45,Male,"sore throat, vomiting, diarrhea",3,Influenza
+17,50,Other,"blurred vision, depression, weight loss, muscle pain",4,Stroke
+18,65,Female,"swelling, appetite loss, nausea",3,Heart Disease
+19,30,Male,"vomiting, swelling, dizziness, fatigue",4,Heart Disease
+20,58,Male,"anxiety, shortness of breath, appetite loss, cough, back pain",5,Food Poisoning
+21,28,Other,"sore throat, weight loss, chest pain, depression, anxiety, rash",6,Bronchitis
+22,22,Male,"insomnia, diarrhea, swelling",3,COVID-19
+23,40,Male,"joint pain, shortness of breath, runny nose",3,Dermatitis
+24,67,Other,"vomiting, insomnia, shortness of breath, blurred vision, depression",5,Food Poisoning
+25,60,Male,"back pain, diarrhea, nausea, runny nose, joint pain, shortness of breath, depression",7,Diabetes
+26,48,Female,"sweating, swelling, cough, diarrhea, appetite loss",5,Arthritis
+27,33,Female,"fever, back pain, shortness of breath",3,Allergy
+28,70,Female,"insomnia, back pain, weight loss",3,Thyroid Disorder
+29,18,Male,"sore throat, vomiting, diarrhea",3,Influenza
+30,52,Male,"blurred vision, depression, weight loss, muscle pain",4,Stroke
+31,59,Female,"swelling, appetite loss, nausea",3,Heart Disease
+32,41,Male,"vomiting, swelling, dizziness, fatigue",4,Heart Disease
+33,63,Male,"anxiety, shortness of breath, appetite loss, cough, back pain",5,Food Poisoning
+34,29,Female,"sore throat, weight loss, chest pain, depression, anxiety, rash",6,Bronchitis
+35,15,Male,"insomnia, diarrhea, swelling",3,COVID-19
+36,44,Male,"joint pain, shortness of breath, runny nose",3,Dermatitis
+37,71,Other,"vomiting, insomnia, shortness of breath, blurred vision, depression",5,Food Poisoning
+38,68,Male,"back pain, diarrhea, nausea, runny nose, joint pain, shortness of breath, depression",7,Diabetes
+39,55,Female,"sweating, swelling, cough, diarrhea, appetite loss",5,Arthritis
+40,31,Male,"fever, back pain, shortness of breath",3,Allergy
